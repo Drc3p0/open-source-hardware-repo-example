@@ -22,6 +22,7 @@ You can start by deleting this section, including this line of text.
 
 Name of Your Project
 =====================
+Include a link and any relevant info about where to purchase your product. 
 
 Write here a short description (two or three paragraphs long) on which you define: What is your project? What is it good for? How do you make it work?
 
