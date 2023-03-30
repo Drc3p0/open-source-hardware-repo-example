@@ -109,4 +109,4 @@ Licensing
 
 Add here the license that your project's source code has been subjected to. We would also love it if you add the attribution note for the template at the end of this file.
 
-> This README.md template has been developed by the openhardware.sv community in order to make project documentation easier. This template has been protected under a CC BY license. You can modify it and redistribute it as long as you keep this author attribution note.
+> This README.md template was initially developed by the openhardware.sv community, and adapted by the open source hardware community at Crowd Supply in order to make project documentation easier. Because there are no actual project files in this repo, this template has been protected under a CC BY license. You can modify it and redistribute it as long as you keep this author attribution note.
